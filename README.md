@@ -104,8 +104,6 @@ This section has moved here: [Advanced Configuration](https://facebook.github.io
 
 This section has moved here: [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-The project is deployed on Netlify. You can view it live at [Vital Organs on Netlify](https://vitaloragns.netlify.app).
-
 ### `npm run build` fails to minify
 
 This section has moved here: [npm run build fails to minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

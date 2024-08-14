@@ -21,7 +21,7 @@ function Partner() {
                             © 2024 Company Name. All rights reserved.
                         </p>
                         <p>
-                            <a href="https://github.com/ananya-14-04/OrganD-decentralized-organ-donation-Application" style={{ color: '#fff9f9' }}>Visit the GitHub repo of the project</a>
+                            <a href="https://github.com/Rish-it/Vital-Organs" style={{ color: '#fff9f9' }}>Visit the GitHub repo of the project</a>
                         </p>
                     </center>
                 </div>
