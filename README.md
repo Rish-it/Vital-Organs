@@ -1,6 +1,6 @@
 
 # Vital-Organs 
-#Deployed Link: vitalorg.netlify.app 
+- **Deployed Link**: https://vitalorg.netlify.app 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
